@@ -19,7 +19,6 @@ Construir un modelo de regresión que estime `SalePrice` con el menor error posi
 - `EDA_final.ipynb`: notebook principal con el análisis completo.
 - `Ames_Iowa_Housing_Dataset.csv`: dataset de 2.930 viviendas y 82 variables.
 - `requirements.txt`: dependencias de Python.
-- `Documentos/r_brica_de_evaluaci_n.md`: rúbrica de evaluación del proyecto.
 
 
 ## Metodología
@@ -55,7 +54,7 @@ En la comparación documentada en el notebook, el modelo de ensamble **Stacking*
 - MAE en conjunto de prueba: **11.364,488 USD**
 - RMSE en conjunto de prueba: **16.499,833 USD**
 - R² en conjunto de prueba: **0,966**
-- MAE en validación cruzada: **9.179,622 USD**
+- MAE en validación cruzada: **12.840,568 USD**
 
 Las cifras corresponden a la ejecución de referencia con semilla `42`. Los resultados exactos pueden variar según el entorno, las versiones de las librerías y la capacidad de ejecución.
 
